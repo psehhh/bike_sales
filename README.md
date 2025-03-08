@@ -1,4 +1,6 @@
-This project involves the following steps and components:
+OVERVIEW
+
+    This project involves the following steps and components:
 
     Data Cleaning and Preprocessing: The dataset underwent thorough cleaning and preprocessing within Excel to ensure data quality and consistency.
 
